@@ -1,0 +1,33 @@
+body {
+    background-color: #02385A;
+    padding-top: 0;
+    margin: 0px;
+    height: 100vh; 
+    width: 100vw;
+}
+
+div {
+    background-color: #F2E1C3;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+h1 {
+    color: #A63922; 
+}
+
+h2 {
+    color: #A66F2E;
+}
+
+h3 { 
+    color: #D8B573;
+}
+
+h4 {
+    color: #02385A;
+}
+
+h5 {
+    color: #F2E1C3;
+}
