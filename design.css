@@ -6,6 +6,49 @@ body {
     width: 100vw;
 }
 
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#fname {
+    background-color: #F2E1C3;
+    color: #02385A;
+}
+
+#lname {
+    background-color: #F2E1C3;
+    color: #02385A;
+}
+
+#submit {
+    color: #02385A;
+    background-color: #F2E1C3;
+}
+
+#forms {
+    color: #02385A;
+    width: 100%;
+    padding: 12 px, 20 px;
+    margin: 20 px; 
+    border: 3 px solid #02385A; 
+    background-color: #D8B573;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+}
+
+li {
+    display: inline;
+}
+
+a { color:#02385A;
+}
+
+ul {
+    list-style-type: none;
+}
 
 div {
     background-color: #F2E1C3;
